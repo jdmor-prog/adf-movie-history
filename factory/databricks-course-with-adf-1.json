@@ -1,0 +1,15 @@
+{
+	"name": "databricks-course-with-adf-1",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7049e9da-c292-45c2-a8d5-12ca40952cc7",
+		"tenantId": "afa4ca6e-9fef-4a72-86d9-ed8073aad977"
+	}
+}
